@@ -1,0 +1,51 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio generated files
+.idea/
+.classpath
+.project
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Android Studio build output
+generator/
+out/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Log Files
+*.log
+
+# OSX files
+.DS_Store
+
+# Gradle wrapper
+!gradle/wrapper/gradle-wrapper.jar
+
+# Mac files
+.AppleDouble
+.LSOverride
+
+# Unit test / coverage reports
+report/
+.coverage
+.pytest_cache/
+
+# Firebase
+google-services.json
+
+# Node modules
+node_modules/
+
+# Package files
+*.apk
+*.aab

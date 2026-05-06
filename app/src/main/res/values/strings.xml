@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Delivery App</string>
+    <string name="home">Главная</string>
+    <string name="search">Поиск</string>
+    <string name="cart">Корзина</string>
+    <string name="orders">Заказы</string>
+    <string name="profile">Профиль</string>
+    <string name="search_stores">Поиск магазинов...</string>
+    <string name="no_stores_found">Магазины не найдены</string>
+    <string name="loading">Загрузка...</string>
+    <string name="error">Произошла ошибка</string>
+    <string name="delivery_time">Время доставки</string>
+    <string name="min">мин</string>
+    <string name="rating">Рейтинг</string>
+    <string name="add_to_cart">В корзину</string>
+    <string name="price">Цена</string>
+    <string name="total">Итого</string>
+    <string name="checkout">Оформить заказ</string>
+    <string name="empty_cart">Корзина пуста</string>
+    <string name="order_tracking">Отслеживание заказа</string>
+    <string name="estimated_delivery">Примерное время доставки</string>
+    <string name="cancel_order">Отменить заказ</string>
+    <string name="rate_order">Оценить заказ</string>
+    <string name="submit">Отправить</string>
+</resources>
